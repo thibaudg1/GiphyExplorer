@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "looping",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/znly/Looping",
+      "state" : {
+        "branch" : "master",
+        "revision" : "4f3e7283dbaf8c9eef0f70d7b3d9f97343418253"
+      }
+    }
+  ],
+  "version" : 2
+}
