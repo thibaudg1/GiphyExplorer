@@ -8,5 +8,3 @@ Make use of load-on-scroll, user-input bouncing, media caching.
 Depends on [Looping](https://github.com/znly/Looping)
 
 ## At a glance
-
-[![explorer.gif](https://s4.gifyu.com/images/explorer.gif)](https://gifyu.com/image/SEpMK)
